@@ -10,7 +10,7 @@ namespace NumbersLab1_corrected_
 			long totalSum = 0;
 
 			Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("Patterns that start and end with the same digit:");
+            Console.WriteLine("Patterns that start and end with the same digit.");
 			Console.ResetColor();
 
 			for (char digit = '1'; digit <= '9'; digit++)
